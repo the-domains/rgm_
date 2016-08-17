@@ -12,6 +12,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+opengraph:
+  appId: 'https://www.facebook.com/ryangmccormick'
 layout_spectrum: 0.8650270430371165
 author:
   name: Ryan McCormick
