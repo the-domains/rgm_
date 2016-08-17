@@ -1,20 +1,20 @@
-typography_spectrum: 0.33691531140357256
+typography_spectrum: 0.13499996555037796
 content_rating:
   adult: true
 color:
-  brandStrength: 0.7985241184942424
-  lightness: 0.4614710584282875
-  saturation: 0.27675793692469597
-  rhythmicContrast: 0.9052490515168756
+  brandStrength: 0.985257534775883
+  lightness: 0.9999968826305121
+  saturation: 0.9959367157425731
+  rhythmicContrast: 0.8191496224608272
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#354242'
+    - '#ACEBAE'
+    - '#FFFF9D'
+    - '#C9DE55'
+    - '#7D9100'
 opengraph:
   appId: 'https://www.facebook.com/ryangmccormick'
-layout_spectrum: 0.8650270430371165
+layout_spectrum: 0.12463103700429201
 author:
   name: Ryan McCormick
   email: ryan@ryanmccormick.com
