@@ -1,4 +1,6 @@
 typography_spectrum: 0.33691531140357256
+content_rating:
+  adult: true
 color:
   brandStrength: 0.7985241184942424
   lightness: 0.4614710584282875
@@ -11,6 +13,9 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.8650270430371165
+author:
+  name: Ryan McCormick
+  email: ryan@ryanmccormick.com
 name: rgm_
-title: kcimroCcM nayR
+title: Digital Ops Guy
 description: Digital Ops Guy
