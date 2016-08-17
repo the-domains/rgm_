@@ -1,0 +1,14 @@
+layout_spectrum: 0.8650270430371165
+typography_spectrum: 0.33691531140357256
+color:
+  brandStrength: 0.7985241184942424
+  lightness: 0.4614710584282875
+  saturation: 0.27675793692469597
+  rhythmicContrast: 0.9052490515168756
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: rgm_
